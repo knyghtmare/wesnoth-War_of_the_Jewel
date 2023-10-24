@@ -1,0 +1,49 @@
+version 1.0.4.14
+- S17, S20, S25, S26, S31:
+    Adjusted player gold due to bad values.
+
+version 1.0.4.13
+- Units: adding missing image for Ethereal orb
+- Akhen: text typo fix in AMLAs
+
+version 1.0.4.12
+- Fixed outdated unit IDs
+- Merwe: AMLAs: correct typo
+- Mahyus: AMLAs: correct typo
+
+version 1.0.4.11
+- Fixed missing unit type
+- Fixed campaign description missing discord link
+heroes:
+1. Akhen, Mathayus, Merwe, Branwyn, Sigdral:
+  --> fixed broken AMLA trees (I think)
+
+version 1.0.4.10
+- Ported to 1.16.x server
+- Fixed bad import of dependency
+
+Version 1.0.4
+
+- Scenarios
+   - Prologue, pt II: player must now find both the Trident and the Soul for the scenario to end
+   - Prologue, pt III: Changed Gidhonus' name to Isfet
+   - Foundation Stone: Corrected missing Sigdral bug
+   - True Darkness: Stygia's spell is less dark than before
+   - The Shadows Within - Black Light: corrected invisible Merwe & Mahyus bug; Nature Orb has more hp so as to avoid accidents
+   - The Shadows Within - Dark Pride: placed markers for the hexes Sigdral must reach
+   - Burning Ice: Windsong no longer affected by freezing; bug causing units to remain affected by freezing should no longer happen
+   - A Glimpse of the Light: removed units with the arcane focus weapon special to prevent that pesky bug from happening
+   - Raging Thunder: Dam is now much closer to Akhen's starting keep, and the flood spreads twice as fast
+
+- Units
+	- When improving his Lucent powers, Akhen learns a new attack along with the Holy Ankh (this new attack doesn't disappear if he uses the Ankh in Waters of Light)
+	- Fixed the messed Inspire ability descriptions
+	
+- Artwork
+	- Corrected various missing attack icons/animations
+  
+  
+- Miscelanea:
+	- Corrected missing image for statues of Myra and Maat
+	- New graphics for Arajunna's red rock terrain
+	- Added unique architecture for Skironians
