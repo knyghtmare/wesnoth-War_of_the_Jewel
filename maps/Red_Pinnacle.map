@@ -1,0 +1,42 @@
+border_size=1
+usage=map
+
+Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms^Xm, Ms^Xm, Ms, Ms^Xm, Ms, Ms, Ms, Ms^Xm, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms
+Ms, Ms, Ms, Ms, Ms, Ms, Ha^Fpa, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms^Xm, Ms^Xm, Ms, Ms, Ms, Ms^Xm, Ms, Ms, Ms, Ms, Ms, Ha^Fpa, Ms, Ms
+Ha^Fpa, Ms, Ai, Ai, Ai, Ai, Ai, Ha^Fpa, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms^Xm, Ms, Ms, Ms, Ms, Ha^Fpa, Ha^Fpa, Ha^Fpa
+Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ms, Ms, Ms, Ms, Ms, Ms, Ms^Xm, Ms^Xm, Ms, Ms, Ms, Ms, Ms, Ms^Xm, Ms, Ms, Ms, Ha^Fpa, Ha^Fpa, Ai, Ai
+Ai, Ai, Ms, Ms, Ms, Ai, Ai, Ai, Ai, Ms, Ms, Ms, Ms, Ms^Xm, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ha^Fpa, Ai, Ha^Fpa
+Ms, Ms, Ms, Ms, Ms, Ms, Ha^Fpa, Ai, Ai, Ai, Ms, Ms, Ms, Ms^Xm, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ha^Fpa, Ha^Fpa, Ms
+Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ha^Fpa, Ha^Fpa, Ai, Ai, Ms, Ms, Ms^Xm, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms
+Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ha^Fpa, Ai, Ai, Ms, Ms, Ms, Koa, Rrc^Vhca, Rrc^Vhca, Rrc^Vhca, Koa, Koa, Koa, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms
+Ms, Ms, Ms, Ms^Xm, Ms^Xm, Ms, Ms, Ms, Ha^Fpa, Ai, Ai, Ms, Ms, Koa, Rrc^Vhca, Koa, Qxe, Koa, Rrc^Vhca, Rrc^Vhca, Koa, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms
+Ms, Ms, Ms, Ms, Ms^Xm, Ms, Ms, Ms, Ha^Fpa, Ai, Ai, Ms, Ms, Koa, Koa, Qxe, Rrc^Vhca, Kud, Rrc^Vhca, Koa, Rrc^Vhca, Ms, Ms, Ms, Ms, Ms, Aa^Fpa, Ms, Ha^Vhha
+Ms, Ms, Ms, Ms, Ms^Xm, Ms, Ms, Ms, Ha^Fpa, Ai, Ai, Ai, Ms, Ms, Rrc^Vhca, Koa, Rrc^Vhca, Koa, Koa, Koa, Koa, Ms, Ms, Ms, Ms, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa
+Ms, Ms, Ms, Ms^Xm, Ms, Ms, Ms, Ms, Ms, Ha^Fpa, Ai, Ai, Ai, Ms, Koa, Koa, Ms, Koa, Ms, Ms, Ms, Koa, Ai, Ms, Ai, Aa^Fpa, Aa^Fpa, Aa^Fpa, Ai
+Ms, Ms^Xm, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ai, Ai, Ai, Ai, Ms, Aa, Urb, Coa, Coa, Coa, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai
+Ms, Ms^Xm, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Aa^Fpa, Ai, Ai, Coa, Coa, Aa, Ai^Bsb\, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Aa^Fpa
+Ms, Ms, Ms, Ha^Fpa, Ha^Fpa, Ha^Fpa, Ha^Fpa, Ha^Fpa, Ms, Ms, Ms, Ms, Aa^Fpa, Aa^Fpa, Ai, Ai, Ai, Ai, Ai, Ai^Bsb\, Urb, Ai, Ai, Ai, Ai, Ai, Ai, Aa^Fpa, Aa^Fpa
+Ms, Ms, Ms, Ms, Ha^Fpa, Ha^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Ms, Ms, Ms, Aa^Fpa, Aa^Fpa, Ai, Ai, Ai, Ai, Aa^Fpa, Aa^Fpa, Urb, Aa^Fpa, Aa^Fpa, Ai, Ai, Ai, Ai, Ai, Aa^Fpa
+Ha^Vhha, Ms, Ms, Ms, Ha^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Ms, Ms, Ms, Aa^Fpa, Aa^Fpa, Ai, Ai, Ai, Ai, Aa^Fpa, Coa, Coa, Aa^Fpa, Aa^Fpa, Ai, Ai, Ai, Ai, Ai, Aa^Fpa
+Ha, Ms, Ms, Ms, Ha, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Ai, Ai, Ai, Ai, Urb, Coa, Aa^Fpa, Aa^Fpa, Ai, Ai, Ai, Ai, Ai, Aa^Fpa, Aa^Fpa
+Ha, Ha, Ha, Ha, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Ai, Ai, Ai^Bsb/, Ai^Bsb/, Ai, Aa^Fpa, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Aa^Fpa, Aa^Vla
+Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Coa, Ai, Ai^Bsb/, Ai^Bsb/, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Aa^Fpa, Aa^Fpa, Aa^Fpa
+Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Urb, Urb, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa
+Ms, Ms, Ms, Aa^Fpa, Ms, Ha^Fpa, Ha^Fpa, Aa^Fpa, Aa, Aa, Urb, Urb, Aa^Fpa, Coa, Aa^Fpa, Ai, Aa^Fpa, Ai, Ai, Ai, Ai, Ai, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa
+Ms, Ms, Ms, Ms, Ms, Ms, Ha^Fpa, Aa, Urb, Urb, Aa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa
+Ms, Ms, Ms, Ms, Ms, Ms, Ha^Fpa, Aa, Urb, Aa, Aa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa
+Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Urb, Aa, Aa, Aa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa
+Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Urb, Urb, Aa, Aa, Aa^Fpa, Aa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa, Aa, Aa
+Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Urb, Coa, Urb, Urb, Aa, Aa, Aa, Aa, Aa^Fpa, Aa, Aa^Fpa, Aa, Aa^Fpa, Aa, Aa^Fpa, Aa, Aa, Aa, Aa, Aa
+Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Urb, Urb, Koa, Coa, Aa, Urb, Urb, Aa, Aa, Aa, Urb, Aa, Urb, Aa, Aa, Aa, Aa, Aa, Aa, Aa, Aa^Fpa
+Ms, Ms, Ms, Ms, Ms, Ms, Urb, Urb, Aa, Aa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa, Aa, Urb, Urb, Urb, Aa, Urb, Aa, Urb, Aa, Aa, Aa, Aa, Aa^Fpa, Aa^Fpa, Aa^Fpa
+Ms, Ms, Ms, Ms, Ms, Urb, Aa, Aa, Aa^Fpa, Aa, Aa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa, Aa, Aa, Aa^Fpa, Aa, Aa, Urb, Urb, Aa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa
+Ms, Ms, Ms, Ms, Ms, Urb, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa, Urb, Koa, Urb, Urb, Coa, Coa, Aa^Fpa, Ha^Fpa
+Ai, Ms, Ms, Ms, Ms, Urb, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Coa, Urb, Coa, Coa, Coa, Urb, Coa, Aa^Fpa, Ha^Fpa
+Ai, Ms, Ms, Ms, Ms, Urb, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Coa, Urb, Coa, Coa, Ha, Urb, Aa^Fpa, Ha^Fpa, Ms
+Ai, Ai, Ms, Ms, Ms, Urb, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Ha^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Coa, Urb, Urb, Ha, Ha^Fpa, Ha, Urb, Urb, Ha^Fpa, Ha^Fpa
+Ai, Ai, Ms, Ms, Ms, Urb, Aa^Fpa, Aa^Fpa, Ha^Fpa, Ha^Fpa, Ms, Ha^Fpa, Ha^Fpa, Aa^Fpa, Ha^Fpa, Ha^Fpa, Ha^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Urb, Ha, Ha^Fpa, Ha^Fpa, Ha^Fpa, Ha, Ha^Fpa, Urb, Urb
+Ai, Ms, Ms, Ms, Ha^Fpa, Urb, Aa^Fpa, Ha^Fpa, Ms, Ms, Ms, Ms, Ms, Ha^Fpa, Ms, Ms, Ms, Ha^Fpa, Aa^Fpa, Aa^Fpa, Urb, Ha, Ha, Ha^Fpa, Ha^Fpa, Ha^Fpa, Ha^Fpa, Ha^Fpa, Ms
+Ha^Vhha, Ha^Fpa, Ha^Fpa, Ms, Coa, Urb, Coa, Ha^Fpa, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ha^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Urb, Urb, Ha, Ha, Ha^Fpa, Ha^Fpa, Ms, Ms
+Ms, Ha^Fpa, Ha^Fpa, Ha^Fpa, Ha^Fpa, Urb, Urb, Ha^Fpa, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ha^Fpa, Ha^Fpa, Aa^Fpa, Aa^Fpa, Aa^Fpa, Ha^Fpa, Urb, Urb, Ha^Fpa, Ha^Fpa, Ms, Ms
+Ms, Ms, Ms, Ha^Fpa, Ha^Vhha, Ha^Fpa, Urb, Ha^Fpa, Ha^Fpa, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ms, Ha^Fpa, Ha^Fpa, Ha^Fpa, Ha^Fpa, Ha^Fpa, Cea, Ha^Fpa, Ha^Fpa, Urb, Urb, Ha^Fpa, Ha^Fpa
