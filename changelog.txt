@@ -1,3 +1,6 @@
+version 1.0/4.16
+--> ported to 1.18.x
+
 version 1.0.4.14
 - S17, S20, S25, S26, S31:
     Adjusted player gold due to bad values.
