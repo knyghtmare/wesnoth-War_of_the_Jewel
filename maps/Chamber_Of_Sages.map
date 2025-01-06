@@ -1,28 +1,25 @@
-border_size=1
-usage=map
-
-Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw
-Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw
-Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Rmp, Rmp, Rmp, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw
-Xmw, Xmw, Xmw, Xmw, Rmp, Rmp, Rmp, Xmw, Xmw, Xmw, Rmp, Rmp^Ts, Rmp, Xmw, Xmw, Xmw, Rmp, Rmp, Rmp, Xmw, Xmw, Xmw, Xmw
-Xmw, Xmw, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Xmw, Rmp, Rmp, Rmp, Xmw, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Xmw, Xmw
-Xmw, Xmw, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, 2 Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Xmw, Xmw
-Xmw, Xmw, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Xmw, Xmw
-Xmw, Xmw, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Xmw, Xmw
-Xmw, Xmw, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Xmw, Xmw
-Xmw, Xmw, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Xmw, Xmw
-Xmw, Xmw, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Xmw, Xmw
-Xmw, Xmw, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, 3 Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Xmw, Xmw
-Xmw, Xmw, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Xmw, Xmw
-Xmw, Xmw, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Xmw, Xmw
-Xmw, Xmw, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Xmw, Xmw
-Xmw, Xmw, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Xmw, Xmw
-Xmw, Xmw, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, 1 Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Xmw, Xmw
-Xmw, Xmw, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Xmw, Xmw
-Xmw, Xmw, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Xmw, Xmw
-Xmw, Xmw, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Xmw, Xmw
-Xmw, Xmw, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Xmw, Xmw
-Xmw, Xmw, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Xmw, Xmw
-Xmw, Xmw, Xmw, Rmp, Rmp, Rmp, Rmp, Rmp, Xmw, Xmw, Rmp, Rmp, Rmp, Xmw, Xmw, Rmp, Rmp, Rmp, Rmp, Rmp, Xmw, Xmw, Xmw
-Xmw, Xmw, Xmw, Xmw, Xmw, Rmp, Xmw, Xmw, Xmw, Xmw, Rmp, Rmp, Rmp, Xmw, Xmw, Xmw, Xmw, Rmp, Xmw, Xmw, Xmw, Xmw, Xmw
-Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Rmp, Rmp, Rmp, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw, Xmw
+Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi
+Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi
+Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Rmp, Rmp, Rmp, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi
+Xoi, Xoi, Xoi, Xoi, Rmp, Rmp, Rmp, Xoi, Xoi, Xoi, Rmp, Rmp^Ts, Rmp, Xoi, Xoi, Xoi, Rmp, Rmp, Rmp, Xoi, Xoi, Xoi, Xoi
+Xoi, Xoi, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Xoi, Rmp, Rmp, Rmp, Xoi, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Xoi, Xoi
+Xoi, Xoi, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, 2 Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Xoi, Xoi
+Xoi, Xoi, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Xoi, Xoi
+Xoi, Xoi, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Xoi, Xoi
+Xoi, Xoi, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Xoi, Xoi
+Xoi, Xoi, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Xoi, Xoi
+Xoi, Xoi, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Xoi, Xoi
+Xoi, Xoi, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, 3 Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Xoi, Xoi
+Xoi, Xoi, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Xoi, Xoi
+Xoi, Xoi, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Xoi, Xoi
+Xoi, Xoi, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Xoi, Xoi
+Xoi, Xoi, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Xoi, Xoi
+Xoi, Xoi, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, 1 Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Xoi, Xoi
+Xoi, Xoi, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Xoi, Xoi
+Xoi, Xoi, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Xoi, Xoi
+Xoi, Xoi, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Xoi, Xoi
+Xoi, Xoi, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Xoi, Xoi
+Xoi, Xoi, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Rmp, Xoi, Xoi
+Xoi, Xoi, Xoi, Rmp, Rmp, Rmp, Rmp, Rmp, Xoi, Xoi, Rmp, Rmp, Rmp, Xoi, Xoi, Rmp, Rmp, Rmp, Rmp, Rmp, Xoi, Xoi, Xoi
+Xoi, Xoi, Xoi, Xoi, Xoi, Rmp, Xoi, Xoi, Xoi, Xoi, Rmp, Rmp, Rmp, Xoi, Xoi, Xoi, Xoi, Rmp, Xoi, Xoi, Xoi, Xoi, Xoi
+Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Rmp, Rmp, Rmp, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi, Xoi

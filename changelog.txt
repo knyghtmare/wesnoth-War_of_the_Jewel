@@ -1,4 +1,19 @@
-version 1.0/4.16
+version 1.0.4.17
+- Units
+	- Hero units now have silver crown
+
+- Scenarios
+	- Children of Darkness: Minotaur leader now lvl 2
+	- Dark Eclipse: Atseger can summon lvl 2 fire elementals again; changed "M'lena's Island" to "Isle of Deianira"
+	- Raging Thunder: decreased damage caused by the flood (as it applies twice); Argatyr no longer gets killed by harm_unit effect
+
+- Images
+	- Added missing attack icons
+
+- Misc
+	- Uranometria now gives a bonus of 30% damage rather than 25%
+
+version 1.0.4.16
 --> ported to 1.18.x
 
 version 1.0.4.14
@@ -26,27 +41,16 @@ version 1.0.4.10
 - Fixed bad import of dependency
 
 Version 1.0.4
+- Units
+	- Hero units now have silver crown
 
 - Scenarios
-   - Prologue, pt II: player must now find both the Trident and the Soul for the scenario to end
-   - Prologue, pt III: Changed Gidhonus' name to Isfet
-   - Foundation Stone: Corrected missing Sigdral bug
-   - True Darkness: Stygia's spell is less dark than before
-   - The Shadows Within - Black Light: corrected invisible Merwe & Mahyus bug; Nature Orb has more hp so as to avoid accidents
-   - The Shadows Within - Dark Pride: placed markers for the hexes Sigdral must reach
-   - Burning Ice: Windsong no longer affected by freezing; bug causing units to remain affected by freezing should no longer happen
-   - A Glimpse of the Light: removed units with the arcane focus weapon special to prevent that pesky bug from happening
-   - Raging Thunder: Dam is now much closer to Akhen's starting keep, and the flood spreads twice as fast
+	- Children of Darkness: Minotaur leader now lvl 2
+	- Dark Eclipse: Atseger can summon lvl 2 fire elementals again; changed "M'lena's Island" to "Isle of Deianira"
+	- Raging Thunder: decreased damage caused by the flood (as it applies twice); Argatyr no longer gets killed by harm_unit effect
 
-- Units
-	- When improving his Lucent powers, Akhen learns a new attack along with the Holy Ankh (this new attack doesn't disappear if he uses the Ankh in Waters of Light)
-	- Fixed the messed Inspire ability descriptions
-	
-- Artwork
-	- Corrected various missing attack icons/animations
-  
-  
-- Miscelanea:
-	- Corrected missing image for statues of Myra and Maat
-	- New graphics for Arajunna's red rock terrain
-	- Added unique architecture for Skironians
+- Images
+	- Added missing attack icons
+
+- Misc
+	- Uranometria now gives a bonus of 30% damage rather than 25%
