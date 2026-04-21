@@ -1,3 +1,7 @@
+version 1.0.4.23
+- Scenarios
+	- Fixed Flora Island
+
 version 1.0.4.22
 - Scenarios 
 	- Fixed True Darkness
