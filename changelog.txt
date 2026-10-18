@@ -1,3 +1,8 @@
+version 1.0.4.24
+- Scenarios
+	- Fixed Immortal Fire
+
+
 version 1.0.4.23
 - Scenarios
 	- Fixed Flora Island
